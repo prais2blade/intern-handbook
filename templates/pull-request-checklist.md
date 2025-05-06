@@ -1,0 +1,4 @@
+- [ ] Code builds without errors
+- [ ] Tests are passing
+- [ ] PR includes a clear description
+- [ ] Follows project coding conventions
