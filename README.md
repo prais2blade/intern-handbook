@@ -1,4 +1,4 @@
-# 🛠️ Software Engineering Internship Handbook
+# 🛠️ SoftEdge Engineering Internship Handbook
 
 Welcome to the team! 🎉
 This repository contains everything you need to succeed in your internship — from weekly goals and tasks to sample projects and useful resources.
@@ -12,4 +12,4 @@ This repository contains everything you need to succeed in your internship — f
 
 Mentors will guide you through your journey. We’re excited to have you onboard!
 
-– The Engineering Team 🚀
+– The SoftEdge Team 🚀
