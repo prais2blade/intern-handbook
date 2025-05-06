@@ -1,7 +1,7 @@
 # Intern Onboarding & Growth Plan
 
-> Duration: 6–8 weeks  
-> Audience: Software Engineering Interns  
+> Duration: 6–8 months  
+> Audience: SoftEdge Technology Interns  
 > Goal: Build practical experience, contribute meaningfully to projects, and gain architectural understanding.
 
 ...
